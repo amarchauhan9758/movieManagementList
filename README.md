@@ -60,7 +60,7 @@ MONGO_URI=mongodb://localhost:27017/moviesdb
 JWT_SECRET=your_jwt_secret
 Start the server
 
-npm run dev
+nodemon index.js
 📌 API Endpoints
 🔑 Auth Routes
 
