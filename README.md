@@ -23,6 +23,25 @@ This project provides APIs for **user authentication** and **movie management** 
 
 ---
 
+## 📥 Postman Collection
+
+To make testing easier, we have included a Postman collection.
+
+- Import the collection into Postman:
+  1. Download the file → [movie-api.postman_collection.json](./postman/movie-api.postman_collection.json)
+  2. Open Postman → `Import` → select the JSON file.
+  3. Use the requests directly.
+
+This collection contains:
+
+- Signup & Login requests
+- Profile request
+- Create Movie
+- Bulk Upload Movies
+- Get Movies
+
+---
+
 ## 📦 Installation
 
 1. Clone the repository
